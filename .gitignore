@@ -1,0 +1,7 @@
+*.pt
+*.glb
+*.zip
+*.DS_Store
+*.npz
+*.png
+*.json
